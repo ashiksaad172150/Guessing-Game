@@ -50,11 +50,12 @@ guess-my-number/
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/ashiksaad172150/Guessing-Game/blob/7cf34eb352585c095d6edb4ded08b7b33dd62405/gameimage.PNG)
 
 ## 📄 License
 
 This project is open-source and free to use.
+
 
 
 
