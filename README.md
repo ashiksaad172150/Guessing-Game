@@ -3,9 +3,9 @@
 
 A simple number guessing game built using **HTML**, **CSS**, and **JavaScript**.
 
-
+---
 [🔗Live Website: ](https://ashiksaad172150.github.io/weather-checker-app/)
---
+---
 
 ## 🕹️ How to Play
 
@@ -54,5 +54,6 @@ guess-my-number/
 ## 📄 License
 
 This project is open-source and free to use.
+
 
 
