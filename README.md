@@ -5,8 +5,9 @@ A simple number guessing game built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 [🔗Live Website: ](https://ashiksaad172150.github.io/Guessing-Game/)
----
 
+
+---
 ## 🕹️ How to Play
 
 - The computer picks a **random number between 1 and 20**.
@@ -54,6 +55,7 @@ guess-my-number/
 ## 📄 License
 
 This project is open-source and free to use.
+
 
 
 
